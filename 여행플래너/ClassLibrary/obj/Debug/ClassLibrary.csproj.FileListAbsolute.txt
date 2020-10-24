@@ -1,0 +1,33 @@
+C:\Users\Shiere\Desktop\UI + chat\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Shiere\Desktop\UI + chat\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Shiere\Desktop\UI + chat\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Shiere\Desktop\UI + chat\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Shiere\Desktop\UI + chat\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Shiere\Desktop\위젯구현\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Shiere\Desktop\위젯구현\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Shiere\Desktop\위젯구현\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Shiere\Desktop\위젯구현\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Shiere\Desktop\위젯구현\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\현구\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\SHyeok\Desktop\응소실 0614\현구\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\현구\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\SHyeok\Desktop\응소실 0614\현구\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SHyeok\Desktop\응소실 0614\현구\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\SHyeok\Desktop\응소실 0614\현구\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Shiere\Desktop\현구3\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Shiere\Desktop\현구3\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Shiere\Desktop\현구3\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Shiere\Desktop\현구3\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Shiere\Desktop\현구3\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\SHyeok\Desktop\새 폴더 (2)\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\SHyeok\Desktop\새 폴더 (2)\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\SHyeok\Desktop\새 폴더 (2)\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\SHyeok\Desktop\새 폴더 (2)\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SHyeok\Desktop\새 폴더 (2)\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\SHyeok\Desktop\새 폴더 (2)\ClassLibrary\obj\Debug\ClassLibrary.pdb

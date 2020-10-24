@@ -1,0 +1,139 @@
+D:\응소실\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\응소실\Server\obj\Debug\Server.Properties.Resources.resources
+D:\응소실\Server\obj\Debug\Server.Server.resources
+D:\응소실\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\응소실\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\응소실\Server\bin\Debug\Server.exe.config
+D:\응소실\Server\bin\Debug\Server.exe
+D:\응소실\Server\bin\Debug\Server.pdb
+D:\응소실\Server\obj\Debug\Server.exe
+D:\응소실\Server\obj\Debug\Server.pdb
+C:\Users\Shiere\Desktop\응소실 팀플\Server\bin\Debug\Server.exe.config
+C:\Users\Shiere\Desktop\응소실 팀플\Server\bin\Debug\Server.exe
+C:\Users\Shiere\Desktop\응소실 팀플\Server\bin\Debug\Server.pdb
+C:\Users\Shiere\Desktop\응소실 팀플\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Shiere\Desktop\응소실 팀플\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Shiere\Desktop\응소실 팀플\Server\obj\Debug\Server.Server.resources
+C:\Users\Shiere\Desktop\응소실 팀플\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Shiere\Desktop\응소실 팀플\Server\obj\Debug\Server.exe
+C:\Users\Shiere\Desktop\응소실 팀플\Server\obj\Debug\Server.pdb
+C:\Users\thygu\Desktop\응소실~1\Server\bin\Debug\Server.exe.config
+C:\Users\thygu\Desktop\응소실~1\Server\bin\Debug\Server.exe
+C:\Users\thygu\Desktop\응소실~1\Server\bin\Debug\Server.pdb
+C:\Users\thygu\Desktop\응소실~1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\thygu\Desktop\응소실~1\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\thygu\Desktop\응소실~1\Server\obj\Debug\Server.Server.resources
+C:\Users\thygu\Desktop\응소실~1\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\thygu\Desktop\응소실~1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\thygu\Desktop\응소실~1\Server\obj\Debug\Server.exe
+C:\Users\thygu\Desktop\응소실~1\Server\obj\Debug\Server.pdb
+C:\Users\김현구\Desktop\UI\Server\bin\Debug\Server.exe.config
+C:\Users\김현구\Desktop\UI\Server\bin\Debug\Server.exe
+C:\Users\김현구\Desktop\UI\Server\bin\Debug\Server.pdb
+C:\Users\김현구\Desktop\UI\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\김현구\Desktop\UI\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\김현구\Desktop\UI\Server\obj\Debug\Server.Server.resources
+C:\Users\김현구\Desktop\UI\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\김현구\Desktop\UI\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\김현구\Desktop\UI\Server\obj\Debug\Server.exe
+C:\Users\김현구\Desktop\UI\Server\obj\Debug\Server.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\bin\Debug\Server.exe.config
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\bin\Debug\Server.exe
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\bin\Debug\Server.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\bin\Debug\ClassLibrary.dll
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\bin\Debug\Packet.dll
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\bin\Debug\Packet.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\bin\Debug\ClassLibrary.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\obj\Debug\Server.Server.resources
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\obj\Debug\Server.exe
+C:\Users\SHyeok\Desktop\응소실 0614\현구\Server\obj\Debug\Server.pdb
+C:\Users\김현구\Desktop\현구\Server\bin\Debug\Server.exe.config
+C:\Users\김현구\Desktop\현구\Server\bin\Debug\Server.exe
+C:\Users\김현구\Desktop\현구\Server\bin\Debug\Server.pdb
+C:\Users\김현구\Desktop\현구\Server\bin\Debug\ClassLibrary.dll
+C:\Users\김현구\Desktop\현구\Server\bin\Debug\Packet.dll
+C:\Users\김현구\Desktop\현구\Server\bin\Debug\ClassLibrary.pdb
+C:\Users\김현구\Desktop\현구\Server\bin\Debug\Packet.pdb
+C:\Users\김현구\Desktop\현구\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\김현구\Desktop\현구\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\김현구\Desktop\현구\Server\obj\Debug\Server.Server.resources
+C:\Users\김현구\Desktop\현구\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\김현구\Desktop\현구\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\김현구\Desktop\현구\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\김현구\Desktop\현구\Server\obj\Debug\Server.exe
+C:\Users\김현구\Desktop\현구\Server\obj\Debug\Server.pdb
+C:\Users\김현구\Desktop\현구3\Server\bin\Debug\Server.exe.config
+C:\Users\김현구\Desktop\현구3\Server\bin\Debug\Server.exe
+C:\Users\김현구\Desktop\현구3\Server\bin\Debug\ClassLibrary.dll
+C:\Users\김현구\Desktop\현구3\Server\bin\Debug\Packet.dll
+C:\Users\김현구\Desktop\현구3\Server\bin\Debug\ClassLibrary.pdb
+C:\Users\김현구\Desktop\현구3\Server\bin\Debug\Packet.pdb
+C:\Users\김현구\Desktop\현구3\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\김현구\Desktop\현구3\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\김현구\Desktop\현구3\Server\obj\Debug\Server.Server.resources
+C:\Users\김현구\Desktop\현구3\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\김현구\Desktop\현구3\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\김현구\Desktop\현구3\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\김현구\Desktop\현구3\Server\obj\Debug\Server.exe
+C:\Users\김현구\Desktop\현구3\Server\obj\Debug\Server.pdb
+C:\Users\Shiere\Desktop\현구3\Server\bin\Debug\Server.exe.config
+C:\Users\Shiere\Desktop\현구3\Server\obj\Debug\Server.exe
+C:\Users\Shiere\Desktop\현구3\Server\obj\Debug\Server.pdb
+C:\Users\Shiere\Desktop\현구3\Server\bin\Debug\Server.exe
+C:\Users\Shiere\Desktop\현구3\Server\bin\Debug\Server.pdb
+C:\Users\Shiere\Desktop\현구3\Server\bin\Debug\ClassLibrary.dll
+C:\Users\Shiere\Desktop\현구3\Server\bin\Debug\Packet.dll
+C:\Users\Shiere\Desktop\현구3\Server\bin\Debug\ClassLibrary.pdb
+C:\Users\Shiere\Desktop\현구3\Server\bin\Debug\Packet.pdb
+C:\Users\Shiere\Desktop\현구3\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Shiere\Desktop\현구3\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Shiere\Desktop\현구3\Server\obj\Debug\Server.Server.resources
+C:\Users\Shiere\Desktop\현구3\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\bin\Debug\Server.exe.config
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\bin\Debug\Server.exe
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\bin\Debug\Server.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\bin\Debug\ClassLibrary.dll
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\bin\Debug\Packet.dll
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\bin\Debug\ClassLibrary.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\bin\Debug\Packet.pdb
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\obj\Debug\Server.Server.resources
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\obj\Debug\Server.exe
+C:\Users\SHyeok\Desktop\응소실 0614\새 폴더 (2)\Server\obj\Debug\Server.pdb
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\bin\Debug\Server.exe.config
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\bin\Debug\Server.exe
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\bin\Debug\Server.pdb
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\bin\Debug\ClassLibrary.dll
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\bin\Debug\Packet.dll
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\bin\Debug\ClassLibrary.pdb
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\bin\Debug\Packet.pdb
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\obj\Debug\Server.Server.resources
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\obj\Debug\Server.exe
+C:\Users\SHyeok\Desktop\새 폴더 (2)\Server\obj\Debug\Server.pdb
+D:\와우\Server\bin\Debug\Server.exe.config
+D:\와우\Server\bin\Debug\Server.exe
+D:\와우\Server\bin\Debug\Server.pdb
+D:\와우\Server\bin\Debug\ClassLibrary.dll
+D:\와우\Server\bin\Debug\Packet.dll
+D:\와우\Server\bin\Debug\ClassLibrary.pdb
+D:\와우\Server\bin\Debug\Packet.pdb
+D:\와우\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\와우\Server\obj\Debug\Server.Properties.Resources.resources
+D:\와우\Server\obj\Debug\Server.Server.resources
+D:\와우\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\와우\Server\obj\Debug\Server.exe
+D:\와우\Server\obj\Debug\Server.pdb
